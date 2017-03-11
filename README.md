@@ -9,13 +9,13 @@ Proyecto Spring-framework
 3. [Ejecución del proyecto](#ejecución-del-proyecto)
 
 
-###Descripción
+##Descripción
 
 Trabajo práctico realizado a partir del proyecto: https://github.com/jeromejaglale/spring4-tutorial/tree/master/04_form_validation
 
-##Requerimientos 
+###Requerimientos 
 
-###Persistencia de datos
+##Persistencia de datos
 
 Crear la base de datos y las tablas necesarias en mysql.
 user:root
